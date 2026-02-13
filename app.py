@@ -1,7 +1,7 @@
 import streamlit as st
 
 img = 'assets/cachorro_foda.png'
-st.image()
+
 with open(img, "rb") as f:
   img_b = f.read()
 
