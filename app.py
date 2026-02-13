@@ -7,6 +7,6 @@ with open(img, "rb") as f:
 
 st.download_button(
   label="carro",
-  data=img_b
-  filne_name="carro",
+  data=img_b,
+  file_name="carro",
   mime="image/png")
