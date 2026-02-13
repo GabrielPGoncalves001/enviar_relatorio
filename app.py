@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.selectbox("aasd",["asdasd"],["sdfasg"])
+img = 'assets/cachorro_foda.png'
