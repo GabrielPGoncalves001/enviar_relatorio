@@ -8,5 +8,5 @@ with open(img, "rb") as f:
 st.download_button(
   label="carro",
   data=img_b,
-  file_name="carro",
+  file_name="carro.png",
   mime="image/png")
